@@ -10,3 +10,5 @@ Download the yolov3.weights file from the internet and add it to the folder for 
 The sample Video used for this project is obtained from the [University of Oxford - Active Vision](http://www.robots.ox.ac.uk/ActiveVision/)
 
 # Demo - 
+
+![](input.gif)
