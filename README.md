@@ -3,6 +3,8 @@ In this, I am attaching my code for building a Social Distancing Detector to det
 
 Social Distancing is one such terminology that has gained popularity over the past few months, thanks to COVID-19. People are forced to maintain a sufficient amount of distance between each other to prevent the spread of this deadly virus. Amidst this crisis, I decided to build a simple Social Distancing Detector that could monitor the practice of social distancing in a crowd.
 
+Medium Article - [Click Here!]()
+
 Download the yolov3.weights file from the internet and add it to the folder for this program.
 
 # Sample Video - 
