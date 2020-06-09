@@ -11,4 +11,8 @@ The sample Video used for this project is obtained from the [University of Oxfor
 
 # Demo - 
 
+### Input -
 ![](input.gif)
+
+### Output -
+![](output.gif)
