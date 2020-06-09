@@ -5,7 +5,7 @@ Social Distancing is one such terminology that has gained popularity over the pa
 
 Medium Article - [Click Here!]()
 
-Download the yolov3.weights file from the internet and add it to the folder for this program.
+Download the yolov3.weights file from [Here]( https://pjreddie.com/media/files/yolov3.weights) and add it to the folder for this program.
 
 # Sample Video - 
 
